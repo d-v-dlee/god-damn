@@ -11,7 +11,7 @@ Well, I won't really be writing much here but in this blog, I'll be showing you 
 2. We combine Langchain with GPT's weird compression language to fit lots of tokens into prompts
 3. You can get even more creative with the chain combinations used here
 
-![Alt Text](/god-damn/docs/assets/images/2023-04-07-note-takeeer.jpg)
+![Alt Text](/assets/images/2023-04-07-note-takeeer.jpg)
 
 ## High-Level
 The link to the github repo is [here](https://github.com/d-v-dlee/langchain-pinecone-roam)) but at a high-level, it works like this.
@@ -58,7 +58,7 @@ At the end of this stage, we have 25 different summaries (a summary for each of 
 
 Here, [Gfodor's prompt](https://twitter.com/gfodor/status/1643415357615640577) comes to the rescue. Using it shrinks the 25 summaries into ~3700 tokens, a >50% reduction! We can pass this compressed text into our final prompt.
 
-![Alt Text](/god-damn/docs/assets/images/2023-04-07-shoggoth.jpg)
+![Alt Text](/assets/images/2023-04-07-shoggoth.jpg)
 
 ### Essay
 
