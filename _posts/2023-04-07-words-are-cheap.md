@@ -6,18 +6,13 @@ date: 2023-04-07
 ## Intro
 Consume, consume, consume. One day I'll write something, I tell myself. Just wait, as soon as I connect all my ideas, all of my haters will see the true power of my note taking system!
 
-<img src="/assets/images/2023-04-07-note-takeeer.jpeg" alt="Note taker" width="300" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="/assets/images/2023-04-07-note-takeeer.jpeg" alt="Note taker" width="500" style="display: block; margin-left: auto; margin-right: auto;">
 
 
 Well, I won't really be writing much here but in this blog, I'll be showing you how to leverage OpenAI, Pinecone, Langchain, Sentence Transformers and your Roam database notes to automatically generate an essay. There are already lots of really helpful tutorials using similar tools but the cool thing here is that:
 1. The content of the essay is based on your notes and highlights, not the LLMs (therefore avoiding potential hallucinations)
 2. We combine Langchain with GPT's weird compression language to fit lots of tokens into prompts
 3. You can get even more creative with the chain combinations used here
-
-<!-- ![Note taker](/assets/images/2023-04-07-note-takeeer.jpeg)
-<div style="text-align: center;">
-  <img src="/assets/images/2023-04-07-note-takeeer.jpeg" alt="Note taker" width="300">
-</div> -->
 
 
 ## High-Level
