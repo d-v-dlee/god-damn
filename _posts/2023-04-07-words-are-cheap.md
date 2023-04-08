@@ -11,7 +11,9 @@ Well, I won't really be writing much here but in this blog, I'll be showing you 
 2. We combine Langchain with GPT's weird compression language to fit lots of tokens into prompts
 3. You can get even more creative with the chain combinations used here
 
-![Note taker](/assets/images/2023-04-07-note-takeeer.jpeg)
+<!-- ![Note taker](/assets/images/2023-04-07-note-takeeer.jpeg) -->
+<img src="/assets/images/2023-04-07-note-takeeer.jpeg" alt="Note taker" width="300" height="200">
+
 
 ## High-Level
 The link to the github repo is [here](https://github.com/d-v-dlee/langchain-pinecone-roam)) but at a high-level, it works like this.
