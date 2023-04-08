@@ -13,6 +13,10 @@ Well, I won't really be writing much here but in this blog, I'll be showing you 
 
 ![Alt Text](/assets/images/2023-04-07-note-takeeer.jpg)
 
+![Alt Text](assets/images/2023-04-07-note-takeeer.jpg)
+
+![Alt Text](./assets/images/2023-04-07-note-takeeer.jpg)
+
 ## High-Level
 The link to the github repo is [here](https://github.com/d-v-dlee/langchain-pinecone-roam)) but at a high-level, it works like this.
 
