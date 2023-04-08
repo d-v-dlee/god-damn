@@ -77,11 +77,11 @@ Here, [Gfodor's prompt](https://twitter.com/gfodor/status/1643415357615640577) c
 >Throughout human evolution, the reproductive strategies of men and women have diverged, resulting in distinct gender roles and mate preferences. Men's desire for power and resources often drives competition and dominance, while women's role as the primary caregivers for offspring has led to a preference for partners who can provide protection and resources. Alongside these differences lie commonalities, such as the importance of intelligence and behavioral flexibility in potential mates. The interplay of evolutionary pressures and cultural norms has shaped the development of these mate preferences, with studies showing that men find a variety of women attractive, yet women may view the average man as below their threshold for attractiveness.
 >
 >In conclusion, dark triad traits intersect with various aspects of human romantic relationships, from mate guarding to gender-based violence prevention and the evolution of gender roles and mate preferences. Understanding the underlying psychological processes and evolutionary pressures that drive these behaviors can help inform interventions to promote healthier and safer romantic partnerships.
-
-### Citations for essay
-* When Men Behave Badly by David Buss
-* A Hunter-Gatherer's Guide to the 21st Century by Heather Heying and Bret Weinstein
-* No One Expects Young Men To Do Anything and They Are Responding By Doing Nothing by Rob Henderson
+>
+>Citations
+>* When Men Behave Badly by David Buss
+>* A Hunter-Gatherer's Guide to the 21st Century by Heather Heying and Bret Weinstein
+>* No One Expects Young Men To Do Anything and They Are Responding By Doing Nothing by Rob Henderson
 
 ## Takeaways
 
