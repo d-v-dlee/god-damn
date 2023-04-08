@@ -1,3 +1,11 @@
 title: Blog of David Lee
 description: howdy yall.
 theme: minima
+
+baseurl: "/god-damn"
+
+defaults:
+  - scope:
+      path: "__posts/images"
+    values:
+      image: true
