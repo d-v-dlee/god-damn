@@ -12,11 +12,13 @@ Well, I won't really be writing much here but in this blog, I'll be showing you 
 3. You can get even more creative with the chain combinations used here
 
 <!-- ![Note taker](/assets/images/2023-04-07-note-takeeer.jpeg) -->
-<img src="/assets/images/2023-04-07-note-takeeer.jpeg" alt="Note taker" width="300" height="200">
+<div style="text-align: center;">
+  <img src="/assets/images/2023-04-07-note-takeeer.jpeg" alt="Note taker" width="300">
+</div>
 
 
 ## High-Level
-The link to the github repo is [here](https://github.com/d-v-dlee/langchain-pinecone-roam)) but at a high-level, it works like this.
+The link to the github repo is [here](https://github.com/d-v-dlee/langchain-pinecone-roam) but at a high-level, it works like this.
 
 ### Set up Pinecone database
 1. Export your notes from Roam
@@ -64,17 +66,17 @@ Here, [Gfodor's prompt](https://twitter.com/gfodor/status/1643415357615640577) c
 
 ### Essay
 
-The Dark Triad and Mate Selection: An Evolutionary Perspective
+>The Dark Triad and Mate Selection: An Evolutionary Perspective
+>
+>The dark triad traits - narcissism, Machiavellianism, and psychopathy - have been extensively studied for their impact on various aspects of human behavior, including romantic relationships. In particular, these traits are associated with manipulative tactics, domineering attitudes, and a lack of empathy, which can result in effective yet destructive short-term mating strategies. This essay will explore how dark triad traits intersect with the psychology of mate guarding behavior, gender-based violence prevention, and the evolution of gender roles and mate preferences.
+>
+>The psychology of mate guarding provides a window into how dark triad traits can influence romantic partnerships. Individuals high in dark triad traits often engage in manipulative and controlling behaviors, such as increased stalking and underreporting their abusive actions. This can lead to a strain in relationships, with men lowering their standards in a bid to attract partners while women compete for the attention of the top 20% of desirable men. This dynamic can result in a power imbalance, where women in relationships with dark triad individuals experience increased vigilance and jealousy, potentially leading to isolation from support networks and increased exposure to violence.
+>
+>Understanding gender-based violence and its prevention is an essential aspect of combatting the destructive influence of dark triad traits. Research has consistently shown that evolutionary processes have shaped the ways in which males and females interact, with men often valuing physical attractiveness and women prioritizing resources and stability. However, these innate preferences can become distorted by the interplay of gender-based stereotypes and cultural norms. For example, women's acceptance of unwanted advances may be tied to perceptions of their attractiveness, whereas men's confidence may be misconstrued as harassment. Furthermore, young liberal women may experience increased mental health issues and rely on victim language, hindering their ability to develop resilience and maintain boundaries in relationships.
 
-The dark triad traits - narcissism, Machiavellianism, and psychopathy - have been extensively studied for their impact on various aspects of human behavior, including romantic relationships. In particular, these traits are associated with manipulative tactics, domineering attitudes, and a lack of empathy, which can result in effective yet destructive short-term mating strategies. This essay will explore how dark triad traits intersect with the psychology of mate guarding behavior, gender-based violence prevention, and the evolution of gender roles and mate preferences.
-
-The psychology of mate guarding provides a window into how dark triad traits can influence romantic partnerships. Individuals high in dark triad traits often engage in manipulative and controlling behaviors, such as increased stalking and underreporting their abusive actions. This can lead to a strain in relationships, with men lowering their standards in a bid to attract partners while women compete for the attention of the top 20% of desirable men. This dynamic can result in a power imbalance, where women in relationships with dark triad individuals experience increased vigilance and jealousy, potentially leading to isolation from support networks and increased exposure to violence.
-
-Understanding gender-based violence and its prevention is an essential aspect of combatting the destructive influence of dark triad traits. Research has consistently shown that evolutionary processes have shaped the ways in which males and females interact, with men often valuing physical attractiveness and women prioritizing resources and stability. However, these innate preferences can become distorted by the interplay of gender-based stereotypes and cultural norms. For example, women's acceptance of unwanted advances may be tied to perceptions of their attractiveness, whereas men's confidence may be misconstrued as harassment. Furthermore, young liberal women may experience increased mental health issues and rely on victim language, hindering their ability to develop resilience and maintain boundaries in relationships.
-
-Throughout human evolution, the reproductive strategies of men and women have diverged, resulting in distinct gender roles and mate preferences. Men's desire for power and resources often drives competition and dominance, while women's role as the primary caregivers for offspring has led to a preference for partners who can provide protection and resources. Alongside these differences lie commonalities, such as the importance of intelligence and behavioral flexibility in potential mates. The interplay of evolutionary pressures and cultural norms has shaped the development of these mate preferences, with studies showing that men find a variety of women attractive, yet women may view the average man as below their threshold for attractiveness.
-
-In conclusion, dark triad traits intersect with various aspects of human romantic relationships, from mate guarding to gender-based violence prevention and the evolution of gender roles and mate preferences. Understanding the underlying psychological processes and evolutionary pressures that drive these behaviors can help inform interventions to promote healthier and safer romantic partnerships.
+>Throughout human evolution, the reproductive strategies of men and women have diverged, resulting in distinct gender roles and mate preferences. Men's desire for power and resources often drives competition and dominance, while women's role as the primary caregivers for offspring has led to a preference for partners who can provide protection and resources. Alongside these differences lie commonalities, such as the importance of intelligence and behavioral flexibility in potential mates. The interplay of evolutionary pressures and cultural norms has shaped the development of these mate preferences, with studies showing that men find a variety of women attractive, yet women may view the average man as below their threshold for attractiveness.
+>
+>In conclusion, dark triad traits intersect with various aspects of human romantic relationships, from mate guarding to gender-based violence prevention and the evolution of gender roles and mate preferences. Understanding the underlying psychological processes and evolutionary pressures that drive these behaviors can help inform interventions to promote healthier and safer romantic partnerships.
 
 ### Citations for essay
 * When Men Behave Badly by David Buss
