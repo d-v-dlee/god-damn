@@ -23,6 +23,25 @@ This post provides an overview of emerging research on LLM-powered autonomous ag
 
 ## Examples
 
+<!-- Using HTML with Absolute Path -->
+<img src="/assets/images/auto-llm/hugginggpt.jpg" alt="hugginggpt" width="500" style="display: block; margin-left: auto; margin-right: auto;">
+
+<!-- Using HTML with Relative Path -->
+<img src="assets/images/auto-llm/hugginggpt.jpg" alt="hugginggpt" width="500" style="display: block; margin-left: auto; margin-right: auto;">
+
+<!-- Using HTML Including Repository Name -->
+<img src="/god-damn/assets/images/auto-llm/hugginggpt.jpg" alt="hugginggpt" width="500" style="display: block; margin-left: auto; margin-right: auto;">
+
+<!-- Using Markdown with Absolute Path -->
+![hugginggpt](/assets/images/auto-llm/hugginggpt.jpg)
+
+<!-- Using Markdown with Relative Path -->
+![hugginggpt](assets/images/auto-llm/hugginggpt.jpg)
+
+<!-- Using Markdown Including Repository Name -->
+![hugginggpt](/god-damn/assets/images/auto-llm/hugginggpt.jpg)
+
+
 ### HuggingGPT (May 2023)
 
 * HuggingGPT uses a central LLM to coordinate and connect specialized deep learning models together to solve complex AI tasks. The LLM serves as the "brain" that plans how to solve problems.
