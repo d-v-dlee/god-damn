@@ -1,5 +1,5 @@
 ---
-title: "Words are Cheap: Generative AI for the essays you were never going to write"
+title: "Generating bad essays from your notes"
 date: 2023-04-07
 ---
 
