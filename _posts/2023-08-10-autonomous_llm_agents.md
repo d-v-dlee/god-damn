@@ -23,25 +23,6 @@ This post provides an overview of emerging research on LLM-powered autonomous ag
 
 ## Examples
 
-<!-- Using HTML with Absolute Path -->
-<img src="/assets/images/auto-llm/hugginggpt.jpg" alt="hugginggpt" width="500" style="display: block; margin-left: auto; margin-right: auto;">
-
-<!-- Using HTML with Relative Path -->
-<img src="assets/images/auto-llm/hugginggpt.jpg" alt="hugginggpt" width="500" style="display: block; margin-left: auto; margin-right: auto;">
-
-<!-- Using HTML Including Repository Name -->
-<img src="/god-damn/assets/images/auto-llm/hugginggpt.jpg" alt="hugginggpt" width="500" style="display: block; margin-left: auto; margin-right: auto;">
-
-<!-- Using Markdown with Absolute Path -->
-![hugginggpt](/assets/images/auto-llm/hugginggpt.jpg)
-
-<!-- Using Markdown with Relative Path -->
-![hugginggpt](assets/images/auto-llm/hugginggpt.jpg)
-
-<!-- Using Markdown Including Repository Name -->
-![hugginggpt](/god-damn/assets/images/auto-llm/hugginggpt.jpg)
-
-
 ### HuggingGPT (May 2023)
 
 * HuggingGPT uses a central LLM to coordinate and connect specialized deep learning models together to solve complex AI tasks. The LLM serves as the "brain" that plans how to solve problems.
@@ -50,7 +31,9 @@ This post provides an overview of emerging research on LLM-powered autonomous ag
 * Models with dependencies wait for required outputs from other models before executing. Independent models execute in parallel for faster performance.
 * Success largely depends on problem decomposition and generated DAG plan.
 
-<img src="/assets/images/auto-llm/hugginggpt.jpg" alt="hugginggpt" width="500" style="display: block; margin-left: auto; margin-right: auto;">
+<!-- Using HTML Including Repository Name -->
+<img src="/god-damn/assets/images/auto-llm/hugginggpt.jpg" alt="hugginggpt" width="500" style="display: block; margin-left: auto; margin-right: auto;">
+
 
 ### Gorilla (May 2023)
 
@@ -60,7 +43,7 @@ This post provides an overview of emerging research on LLM-powered autonomous ag
 * When tasked with instructions, it will retrieve the most relevant API documentation (via a vector database) before making the call. 
 * Combined, this allows Gorilla to be effective even when APIs change + reduces hallucinated / incorrect API calls.
 
-<img src="/assets/images/auto-llm/gorilla.jpg" alt="gorilla" width="500" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="/god-damn/assets/images/auto-llm/gorilla.jpg" alt="gorilla" width="500" style="display: block; margin-left: auto; margin-right: auto;">
 
 [Image: image.png]
 ### ChemCrow (June 2023)
@@ -69,7 +52,7 @@ This post provides an overview of emerging research on LLM-powered autonomous ag
 * It uses a workflow prompting the LLM to reason, request tools, provide inputs, and observe outputs.
 * ChemCrow was able to successfuly plan the synthesis of an insect repellent, three organocatalysts, and other relevant molecules.
 
-<img src="/assets/images/auto-llm/chemcrow.jpg" alt="chemcrow" width="500" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="/god-damn/assets/images/auto-llm/chemcrow.jpg" alt="chemcrow" width="500" style="display: block; margin-left: auto; margin-right: auto;">
 
 ### MetaGPT (Aug 2023)
 
@@ -79,8 +62,8 @@ This post provides an overview of emerging research on LLM-powered autonomous ag
 * MetaGPT produces state of the art results on coding tasks; it also creates intermediate artifacts like BRDs and flowcharts (try the [demo](https://github.com/geekan/MetaGPT) its brazy, bruh.)
 * Integrating human domain knowledge into multi-agent systems with SOPs reduces hallucination and creates opportunities to solve complex real-world problems.
 
-<img src="/assets/images/auto-llm/metagpt1.jpg" alt="metagpt1" width="500" style="display: block; margin-left: auto; margin-right: auto;">
-<img src="/assets/images/auto-llm/metagpt2.jpg" alt="metagpt2" width="500" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="/god-damn/assets/images/auto-llm/metagpt1.jpg" alt="metagpt1" width="500" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="/god-damn/assets/images/auto-llm/metagpt2.jpg" alt="metagpt2" width="500" style="display: block; margin-left: auto; margin-right: auto;">
 
 ## Appendix
 
