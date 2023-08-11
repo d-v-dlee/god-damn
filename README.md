@@ -1,3 +1,1 @@
-### David's Git Blog
-
-very good, very nice.
+very good, very nice
