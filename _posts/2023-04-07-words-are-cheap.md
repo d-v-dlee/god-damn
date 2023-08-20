@@ -1,6 +1,8 @@
 ---
 title: "Generating bad essays from your notes"
 date: 2023-04-07
+description: A post showcasing how to combine Roam Research, LLMs and other tools to automatically generate essays
+tags: [roam research, LLMs, langchain, pinecone]
 ---
 
 ## Intro
