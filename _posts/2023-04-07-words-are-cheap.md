@@ -83,4 +83,4 @@ Here, [Gfodor's prompt](https://twitter.com/gfodor/status/1643415357615640577) c
 
 ## Takeaways
 
-The cool thing about this method is that you can quickly produce several different essays, exploring the connection between different but related topics, using the same start topic. Because the true benefit of writing is probably the process versus the final output, these outputs should really serve as a basis for further exploration and discovery for writing. But I'm not going to do that. What I will do though is play with the LangChain chains and compression prompts. 
+The cool thing about this method is that you can quickly produce several different essays, exploring the connection between different but related topics, using the same start topic. Because the true benefit of writing is probably the process versus the final output, these outputs should really serve as a basis for further exploration and discovery for writing. But I'm probably not going to do that.
