@@ -1,5 +1,5 @@
 ---
-title: "Autonomous LLM Agents"
+title: "A short history of autonomous LLM agents"
 date: 2023-08-10
 description: A short review and history of autonomous LLM agents
 tags: [LLMs, autogpt, automation, autonomous agents]
