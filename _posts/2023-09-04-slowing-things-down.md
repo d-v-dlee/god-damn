@@ -19,7 +19,7 @@ The hierarchy has two foundational dimensions: technical skills and athleticism.
 
 The apex of the hierarchy integrates these foundational elements. Skills at this level include scanning as the ball is arriving, recieving with optimal body positioning, and off-ball movement (this [blog](https://hockeysarsenal.substack.com/p/erling-haaland) has really good gif examples of Haaland). 
 
-<img src="/god-damn/assets/images/slowdown/kdb.jpg" alt="bj" width="500" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="/god-damn/assets/images/slowdown/kdb_scan.jpg" alt="bj" width="500" style="display: block; margin-left: auto; margin-right: auto;">
 
 Once you start applying these higher-level skills, you're actually *playing* the game. Manipulating. Strategizing. Expressing yourself.
 
@@ -31,11 +31,15 @@ Version 2 is frustrating despite possessing all the tools. Their teammates hate 
 
 Version 3 is the ideal, highly consistent individually and one who enhances the performance of their teammates. This player can recieve under pressure, understands how their offball movement creates space for their teammates, and utilize all of their tools to problem solve on the fly. This player has great skills but the "whole is greater than the sum of its parts." 
 
-Caption: [Alphonso Davies echoes a similar sentiment](https://www.youtube.com/watch?v=baq7b2GNmpI).
+[Alphonso Davies echoes a similar sentiment in this great 1-minute video](https://www.youtube.com/watch?v=baq7b2GNmpI).
 
 My goal as a coach is to build Version 3 players. To get there, we have lots of different drills but one thing I'm constantly telling them is to slow things down and get it right. Slow is smooth and smooth is fast.
 
-In summary, the mastery of basics is non-negotiable. But the hard part, especially for kids is to 1) actually practice the simple stuff and 2) slow down and have the humility to do it right. I definitely didn't do this. I grew up in the joga bonita, Cristiano glory days. I dreamt of triple stepovers and audacious goal celebrations, not perfectly weighted passes and smart, crisp off-ball rotations. I practiced the fun "cool" stuff instead of absolutely mastering the "boring" stuff and eventually, that caught up.
+In summary, the mastery of basics is non-negotiable. But the hard part, especially for kids is to:
+1. actually practice the simple stuff
+1. slow down and have the humility to do it right. 
+
+I definitely didn't do this. I grew up in the joga bonita, Cristiano glory days. I dreamt of triple stepovers and audacious goal celebrations, not perfectly weighted passes and smart, crisp off-ball rotations. I practiced the fun "cool" stuff instead of absolutely mastering the "boring" stuff and eventually, that caught up.
 
 Shifting from coaching, the question now is, where I am repeating the same mistake, foregoing the essential boring stuff, for the sexy, shiny stuff?
 
