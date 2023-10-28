@@ -3,6 +3,7 @@ title: "Things worth buying"
 date: 2023-10-28
 description: List of products I love
 tags: [consumption, buying]
+thumbnail: "/god-damn/assets/images/buying/stimulated_economy.jpeg"
 ---
 
 Hello fellow consumer. This post is about my favorite products. The things listed here are recommended for two main reasons: 
