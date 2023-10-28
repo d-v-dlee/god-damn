@@ -39,7 +39,7 @@ In summary, the mastery of basics is non-negotiable. But the hard part, especial
 1. actually practice the simple stuff
 1. slow down and have the humility to do it right. 
 
-I definitely didn't do this. I grew up in the joga bonita, Cristiano glory days. I dreamt of triple stepovers and audacious goal celebrations, not perfectly weighted passes and smart, crisp off-ball rotations. I practiced the fun "cool" stuff instead of absolutely mastering the "boring" stuff and eventually, that caught up.
+I definitely didn't do this. I grew up in the joga bonita, Cristiano glory days. I dreamt of triple stepovers and audacious goal celebrations. I practiced the fun "cool" stuff instead of absolutely mastering the "boring" stuff and eventually that caught up.
 
 Shifting from coaching, the question now is, where I am repeating the same mistake, foregoing the essential boring stuff, for the sexy, shiny stuff?
 
