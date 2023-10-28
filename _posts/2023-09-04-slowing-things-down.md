@@ -1,5 +1,5 @@
 ---
-title: "Slow Things Down, Get It Right"
+title: "Slow things down, get it right"
 date: 2023-09-10
 ---
 

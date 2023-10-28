@@ -1,5 +1,5 @@
 ---
-title: "Things Worth Buying"
+title: "Things worth buying"
 date: 2023-10-28
 description: List of products I love
 tags: [consumption, buying]
@@ -14,7 +14,7 @@ Focusing on cost per use, I'm reminded of the [Boots Theory](https://terrypratch
 The Boots Theory plus "I'm stimulating the economy, baby!" are usually my go-to-responses to Molly whenever she questions a potential purchase. While half-joking, its true! Buying high quality stuff that you enjoy and can frequently use is worth it! So here's my list.
 
 <figure style="text-align: center;">
-  <img src="/god-damn/assets/images/buying/stimulated_economy.jpg" alt="nooote" width="300">
+  <img src="/god-damn/assets/images/buying/stimulated_economy.jpeg" alt="nooote" width="300">
   <figcaption>Stimulating the economy in a seedy massage parlor</figcaption>
 </figure>
 
