@@ -5,7 +5,9 @@ description: List of products I love
 tags: [consumption, buying]
 ---
 
-Hello fellow consumer. This post is about my favorite products. The things listed here are recommended for two main reasons: 1) they make my life better and 2) they have value!
+Hello fellow consumer. This post is about my favorite products. The things listed here are recommended for two main reasons: 
+1. they make my life better
+2. they have value!
 
 [Buy Wisely](https://stephango.com/buy-wisely) has a nice post of heuristics for making decisions on what to buy, such as cost per use, smiles per dollar, etc; essentially buy stuff that lasts or things that make you happy (namaste). 
 
@@ -22,14 +24,14 @@ The Boots Theory plus "I'm stimulating the economy, baby!" are usually my go-to-
 #### Patagonia Jacket
 I love my Patty micro puff. It's comfy, light, and warm. Plus in Seattle, where it's pretty much Patty weather ~250 days of the year (September - mid June), it gets a ton of use. 
 
-I bought my jacket at Costco in 2018. Conservatively, I've probably worn it 400 times. Using the listed online price of [$289](https://www.patagonia.com/product/mens-nano-puff-hoody/84222.html?dwvar_84222_color=BLK&cgid=mens-jackets-vests) (Costco was like one something), thats $0.72 per wear. Thats only going to go down and thats what you call value, baby.
+I bought my jacket at Costco in 2018. Conservatively, I've probably worn it 400 times. Using the listed online price of [$289](https://www.patagonia.com/product/mens-nano-puff-hoody/84222.html?dwvar_84222_color=BLK&cgid=mens-jackets-vests) (Costco was cheaper), thats $0.72 per wear. Thats only going to go down and thats what you call value, baby.
 
 #### King Size Bed / 8 Sleep
 Let's say you spend 6 hours a night in bed, multiply that by 50 (for years you're not dependent on your parents or pooping your pants at a retirement home), that is 10 years. Make that 9 hours a night and that becomes 15 years. Ten to fifteen years just spent laying in bed!!!
 
 So based on that, two suggestions:
-1) if you have a partner get a king sized bed. 
-2) invest in temperature control.
+1. if you have a partner get a king sized bed. 
+2. invest in temperature control.
 
 To make it really simple:
 - King sized beds rule! You and your partner will be much happier! 
@@ -39,10 +41,17 @@ I previously had a [Chilipad](https://sleep.me/product/cube-sleep-system). I now
 
 Make your bed a paradise. You're going to spend a third of your life in it. 
 #### Rogue Kettlebell
-<img src="/god-damn/assets/images/buying/bro_room.jpg" alt="nooote" width="300" style="display: block; margin-left: auto; margin-right: auto;">
+<figure style="text-align: center;">
+  <img src="/god-damn/assets/images/buying/bro_room.jpg" alt="nooote" width="300" style="display: block; margin-left: auto; margin-right: auto;">
+  <figcaption>Bro needs to lift harder and upgrade his bed</figcaption>
+</figure>
+
+
 Obviously this is every mans dream but the [kettlebell](https://www.roguefitness.com/rogue-kettlebells) is the next closest thing to an all-in-one home gym. 
 
-One annoying thing is 1) shipping is expensive and 2) used ones are also expensive because they're timeless and indestructible. 
+The annoying thing is:
+1. shipping is expensive
+2. used ones are also expensive because they're timeless and indestructible. 
 
 I guess just think of it like a Rolex. You're just caring for it until you pass it onto your children.
 
@@ -60,6 +69,10 @@ Instead of having to keep random note cards or write illegible notes in the marg
 I rock a five year old Kindle and use the Matter, Readwise and Obsidian almost every single day, so their costs of $60, $60, and $50 per year, are worth it.
 
 #### Freedom App
-I can admit two things: 1) im addicted to Twitter and 2) I'm powerless against it. I've tried different strategies and made and broken many promises to myself trying to limit usage. The only thing that actually works is [Freedom](https://freedom.to/). With Freedom, you mark a set of apps/websites, set a schedule and then boom, those apps become unreachable. 
+I can admit two things: 
+1. I'm addicted to Twitter.
+2. I'm powerless against it. 
+
+I've tried different strategies and made and broken many promises to myself trying to limit usage. The only thing that actually works is [Freedom](https://freedom.to/). With Freedom, you mark a set of apps/websites, set a schedule and then boom, those apps become unreachable. 
 
 Sometimes Freedom doesn't actually kick off when its supposed to, allowing me to cheat, but most days it blocks social media, sports blogs, and the Athletic during the work day. Freedom is the app most conducive to me doing Deep Work and allows me to save my will power for other things. For $50 a year, it is so worth it.
