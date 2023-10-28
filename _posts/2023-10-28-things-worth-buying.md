@@ -47,7 +47,7 @@ Make your bed a paradise. You're going to spend a third of your life in it.
 </figure>
 
 
-Obviously this is every mans dream but the [kettlebell](https://www.roguefitness.com/rogue-kettlebells) is the next closest thing to an all-in-one home gym. 
+Obviously this is every mans dream but the [kettlebell](https://www.roguefitness.com/rogue-kettlebells) is the next closest thing to an all-in-one home gym. You still need access to a cage to do all of your compound lifts, bro, but for everything else just get this.
 
 The annoying thing is:
 1. shipping is expensive
