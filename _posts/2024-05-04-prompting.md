@@ -16,7 +16,7 @@ As edge cases and exceptions emerge, you start haphazardly adding to the prompts
 
 Before you know it, your prompts have turned into a Frankenstein's monster - a large, brittle chimera that's difficult to manage and maintain. Each iteration adds more complexity and confusion, making it harder to understand and modify the prompts.
 
-<img src="/god-damn/assets/images/prompting/xkcd.jpg" alt="dependency" width="300" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="/god-damn/assets/images/prompting/xkcd.jpg" alt="dependency" width="600" style="display: block; margin-left: auto; margin-right: auto;">
 
 Finally, after countless frustrating debugging sessions, you take a step back and reassess the situation. With a zoomed-out perspective, you finally understand what the customer needs and how the model should behave across every scenario. You realize that the best course of action is to kill the Frankenstein prompt and start from scratch.
 
@@ -46,17 +46,17 @@ This approach doesn't eliminate the need for testing and iteration, but it does 
 My system prompt typically has six parts:
 
 1. Persona - who are you and what are you good at
-    1. world’s finest AI assistant at X, with deep expertise in X, Y, Z
+    - world’s finest AI assistant at X, with deep expertise in X, Y, Z
 2. Role - what are you helping humans do
-    1. You help X do
+    - You help X do
 3. Big Picture - what is the big thing we’re trying to solve
-    1. At a high-level, the end-to-end process goes as following...
+    - At a high-level, the end-to-end process goes as following...
 4. Overview of specific tasks - what will you specifically be responsible for
-    1. You are responsible for these specific tasks...
+    - You are responsible for these specific tasks...
 5. General behavior - guidance on what should you do all the time
-    1. You always take your time, think step-by-step, and pay extreme attention to detail...
+    - You always take your time, think step-by-step, and pay extreme attention to detail...
 6. Format guidance - what should the expected output of the prompts be
-    1. XML vs JSON
+    - XML vs JSON
 
 The big picture is helpful because often times you're running LLM calls in parallel or they're working on a task in a greater chain of tasks without that knowledge. The system prompt can help "pull" all these calls in the same direction. 
 
@@ -115,7 +115,7 @@ The problem here is that the model could be inconsistent in carrying out all ste
 
 For more complicated instructions with if-else statements, special definitions, and exceptions, I've found that creating a decision tree using a mermaid diagram and adding it to the instructions helps. The questionnaire is useful for this. You can pass the same artifact to an LLM to create a mermaid diagram and iterate on it to ensure accuracy. The mermaid diagram also becomes a useful visualization to share with your customers. 
 
-<img src="/god-damn/assets/images/prompting/mermaid.png" alt="dependency" width="300" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="/god-damn/assets/images/prompting/mermaid.png" alt="dependency" width="600" style="display: block; margin-left: auto; margin-right: auto;">
 
 ```
 graph TD
@@ -151,7 +151,7 @@ Overall, marrying a specific tag in thinking to each step and defining decision 
 
 You can use Claude for document understanding tasks. As someone who used to do a lot of Textract and LayoutLM fine-tuning, I find this extremely useful, especially for "complicated" tables. For example, consider this electric summary sheet from Puget Sound Energy, which shows rate schedules. Based on attributes such as lamp type (High Pressure Sodium Vapor or LED), wattage, effective date, and bill components, we might want to parse a specific value. 
 
-<img src="/god-damn/assets/images/prompting/pse.png" alt="dependency" width="300" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="/god-damn/assets/images/prompting/pse.png" alt="dependency" width="600" style="display: block; margin-left: auto; margin-right: auto;">
 
 While simple for a human, traditional methods like Textract would struggle with this table due to factors like multi-level headers and shared columns between sub-tables. Fortunately, Claude's vision capabilities perform better in these scenarios. 
 
@@ -333,6 +333,6 @@ In the first prompt, the model might classify (sometimes incorrectly) and then j
 The order in which you present instructions to the model can significantly impact the output quality and accuracy. Always consider the optimal sequence of steps to guide the model towards the desired outcome.
 
 ### Related Reading / Resources
-- [Everything I'll forget about prompting LLMs](https://olickel.com/everything-i-know-about-prompting-llms)
-- [Bedrock Claude 3 Deep Dive](https://docs.google.com/presentation/d/1tjvAebcEyR8la3EmVwvjC7PHR8gfSrcsGKfTPAaManw/edit#slide=id.g2c40da08fdb_17_0)
-- [Anthropic Cookbook](https://github.com/anthropics/anthropic-cookbook)
+- [Everything I'll forget about prompting LLMs](https://olickel.com/everything-i-know-about-prompting-llms) - inspo
+- [Bedrock Claude 3 Deep Dive](https://docs.google.com/presentation/d/1tjvAebcEyR8la3EmVwvjC7PHR8gfSrcsGKfTPAaManw/edit#slide=id.g2c40da08fdb_17_0) - slide deck with useful tips
+- [Anthropic Cookbook](https://github.com/anthropics/anthropic-cookbook) - code examples
