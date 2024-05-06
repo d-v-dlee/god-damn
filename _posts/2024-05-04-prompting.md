@@ -6,7 +6,7 @@ tags: [claude 3, llm, ai, prompting, ai engineer]
 thumbnail: "/god-damn/assets/images/ten-percent/xkcd.jpg"
 ---
 
-It's not hard to write a pretty good prompt. There are plenty of great guides and [documentation](https://docs.google.com/presentation/d/1tjvAebcEyR8la3EmVwvjC7PHR8gfSrcsGKfTPAaManw/edit#slide=id.g2c40da08fdb_17_0). However, crafting one that's robust enough for production presents real challenges.
+It's not hard to write a pretty good prompt. There are plenty of great guides and [documentation](https://docs.google.com/presentation/d/1tjvAebcEyR8la3EmVwvjC7PHR8gfSrcsGKfTPAaManw/edit#slide=id.g2c40da08fdb_17_0). However, crafting one that's robust enough for production can be challenging.
 
 One common trap I've fallen into is what I call the **Frankenstein Prompt**. It essentially goes like this:
 
