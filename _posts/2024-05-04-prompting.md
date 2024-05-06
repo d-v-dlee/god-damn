@@ -16,7 +16,7 @@ As edge cases and exceptions emerge, you start haphazardly adding to the prompts
 
 Before you know it, your prompts have turned into a Frankenstein's monster - a large, brittle chimera that's difficult to manage and maintain. Each iteration adds more complexity and confusion, making it harder to understand and modify the prompts.
 
-<img src="/god-damn/assets/images/prompting/xkcd.jpg" alt="dependency" width="600" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="/god-damn/assets/images/prompting/xkcd.jpg" alt="dependency" width="400" style="display: block; margin-left: auto; margin-right: auto;">
 
 Finally, after countless frustrating debugging sessions, you take a step back and reassess the situation. With a zoomed-out perspective, you finally understand what the customer needs and how the model should behave across every scenario. You realize that the best course of action is to kill the Frankenstein prompt and start from scratch.
 
@@ -162,7 +162,7 @@ For simple document understanding tasks, you can write straightforward queries l
 2. Write step-by-step instructions similar to the previous sections. One of the steps should ask the model to visualize and recreate the specific section of the document they should extract from. 
 3. Have a powerful model like Sonnet or Opus create few-shot examples based on the instructions. 
 
-With a good prompt, you can achieve strong performance using Claude Haiku. Here's what a prompt for parsing the above image might look like: 
+Once your prompt is written, you can execute it using Claude Haiku, saving you time and money. Here's what a prompt for parsing the above image might look like: 
 ```
 <document_description> 
 The image shows an Electric Summary Sheet from Puget Sound Energy effective 5/1/2024. It contains detailed rate schedules for customer-owned street lighting energy service (SCH 54) that is not available to new customers. 
@@ -323,6 +323,7 @@ Perhaps these all become obsolete with Claude 3.x but until then, happy promptin
 ### **Prompting Gotchas**
 
 **Order Matters**
+
 Consider these two different instructions.
 
 1. Classify x into a, b, or c. Think step-by-step and explain your reason. 
