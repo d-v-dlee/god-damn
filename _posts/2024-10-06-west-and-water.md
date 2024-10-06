@@ -1,7 +1,6 @@
 ---
 title: "A New Manifest Destiny - The West and Water"
 date: 2024-10-07
-description: 
 tags: [american history, water, desalination, manifest destiny]
 ---
 
