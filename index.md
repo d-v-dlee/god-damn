@@ -1,8 +1,7 @@
 ---
 layout: home
-title: About Me
+title: Welcome
 ---
-
 
 howdy. here is my 10th attempt at writing a blog! i like to [read](https://www.goodreads.com/user/show/87301267-david), play footy, and support the Arsenal.
 

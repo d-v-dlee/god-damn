@@ -6,7 +6,7 @@ tags: [american history, water, desalination, manifest destiny]
 ---
 
 ## The Myth of the Western Individualist and Water as the New Frontier
-The image of the lone cowboy taming the wild frontier is as American as apple pie—and just as artificially sweetened. This romanticized vision of the rugged individualist conquering the West has long obscured a far more complex reality: the West was built not by lone wolves, but through collective effort and **massive federal intervention**. As we stand on the brink of a new frontier—one defined by water scarcity and climate change—it's time to shed this myth and embrace a new narrative, one that could redefine the American West for generations to come.
+The image of the lone cowboy taming the wild frontier is as American as apple pie—and just as artificially sweetened. This romanticized vision of the rugged individualist conquering the West has long obscured a far less-sexy reality: the West was built not by lone wolves, but through collective effort and **massive federal intervention**. As we stand on the brink of a new frontier—one defined by water scarcity and climate change—it's time to shed this myth once and for all.
 
 ## The Myth Unraveled
 
