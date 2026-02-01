@@ -1,11 +1,11 @@
 ---
-title: "designed descent"
+title: "Designed Descent"
 date: 2026-01-31
 description: X is evil because it makes people worse
 tags: [algorithms, social media, intention]
 ---
 
-![Red Dead Honor Bar](/assets/images/rdr-honor-bar.jpg)
+<img src="/god-damn/assets/images/rdr-honor-bar.jpg" alt="Red Dead Honor Bar" width="500" style="display: block; margin-left: auto; margin-right: auto;">
 
 In Red Dead Redemption, there's an honor bar. One side is good, the other is evil. Save someone and the icon moves right. Kill or rob someone and it moves left. The actions are very black and white, but your character lives somewhere in between.
 
