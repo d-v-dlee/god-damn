@@ -3,6 +3,7 @@ title: "Technical Empathy: Condensing the Iceberg"
 date: 2025-03-02
 description: How the soccer concept of technical empathy applies to knowledge work
 tags: [technical empathy, communication, work, soccer]
+published: false
 ---
 
 ## Technical Empathy

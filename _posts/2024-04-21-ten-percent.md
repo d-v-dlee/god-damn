@@ -4,6 +4,7 @@ date: 2024-04-21
 description: Tying thoughts of 10% Less Democracy with FC Barcelona
 tags: [government, democracy, football, barcelona]
 thumbnail: "/god-damn/assets/images/ten-percent/barca_fan.JPG"
+published: false
 ---
 
 ### Introduction
