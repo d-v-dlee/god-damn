@@ -1,3 +1,35 @@
-title: Blog of David Lee
-description: howdy yall.
+# Site settings
+title: David's Corner
+author: >
+  David Lee
+description: >
+  Musings on footy, tech and books I've read.
+
+# Build settings
 theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Minima theme settings
+minima:
+  skin: dark
+  date_format: "%b %-d, %Y"
+  social_links:
+    - { platform: github,  user_url: "https://github.com/d-v-dlee" }
+    - { platform: goodreads, user_url: "https://www.goodreads.com/user/show/87301267-david" }
+
+# Custom settings
+show_excerpts: False
+# header_pages:
+#   - about.md
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
